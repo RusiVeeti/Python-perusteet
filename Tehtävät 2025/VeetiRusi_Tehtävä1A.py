@@ -1,0 +1,8 @@
+print("Syötä numero 1:")
+eka = int(input())
+print("Syötä numero 2:")
+toka = int(input())
+print("summa", (eka+toka))
+print("erotus", (eka-toka))
+print("tulo", (eka*toka))
+print("osamäärä", (eka/toka))
